@@ -35,7 +35,7 @@ Volume
 
 Clone the repository:
 
-git clone https://github.com/your-username/toyota-stock-analysis.git
+git clone https://github.com/RiddhiBhor09/toyota-stock-analysis.git
 Open your SQL environment (MySQL / PostgreSQL / SQLite)
 
 Import the SQL file:
